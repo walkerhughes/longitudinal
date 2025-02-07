@@ -1,0 +1,1 @@
+DATA_PATH = "/Users/walkerhughes/Documents/MSDS/ml_comp/kaggle/data/"
